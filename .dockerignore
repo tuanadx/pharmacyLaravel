@@ -13,4 +13,9 @@ tests
 docker-compose.yml
 Dockerfile
 .dockerignore
-README.md 
+README.md
+public/hot
+public/storage
+public/css
+public/js
+public/mix-manifest.json 
